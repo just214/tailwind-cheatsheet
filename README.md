@@ -2,9 +2,9 @@
 
 > Last updated on November 9th, 2020 for TailwindCSS v1.9.6
 
-This README contains a complete list of the TailwindCSS class names for a quick reference. Go ahead, try a `cmd+f` search. 
+This README contains a complete list of the TailwindCSS class names for a quick reference. 
 
-It also contains a more condensed, printable one-page version:
+There is also a more condensed, printable one-page jpg version:
 
 ![Printable TailwindCSS Cheatsheet](https://github.com/gojutin/tailwindcss-cheatsheet/blob/main/printable-tailwindcss-cheatsheet.jpg?raw=true)
 
